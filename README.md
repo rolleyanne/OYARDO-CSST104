@@ -11,4 +11,14 @@ Purpose of this Compilation
 This compilation serves as a reflection of my progress and growth throughout CSST 104 
 
 Exercises
-1. https://colab.research.google.com/drive/1AeJbzQaWFCGFtZRE_MVbentZowh3zJfE?authuser=0#scrollTo=Lgd_gtCpRJ8o
+- <a href= " BankCustomerData.ipynb "> Bank Customer Data <a/>
+- <a href= " HardwareStore.ipynb "> Hardware Store <a/>
+- <a href= " Logistic Regression.ipynb "> Logistic Regression <a/>
+- <a href= " MultipleLinearRegression.ipynb "> Multiple Linear Regression <a/>
+- <a href= " Oyardo,RolleyAnneV_Multiple_Linear_Regression.ipynb "> Multiple Linear Regression Student Grades <a/>
+- <a href= " Oyardo_Rolley_Anne_Simple_LinearRegression.ipynb "> Simple Linear Regression Student Grades <a/>
+- <a href= " SimpleLinearRegression.ipynb "> Simple Linear Regression <a/>
+- <a href= " StudentPerformance.ipynb "> Student Performance <a/>
+
+Activities
+- <a href= " 3A-OYARDO-EXER5.ipynb "> Exercise 5 <a/>
