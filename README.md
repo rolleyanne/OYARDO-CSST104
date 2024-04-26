@@ -1,6 +1,6 @@
 Compilation of Works in CSST 104
 
-Welcome to my compilation of works for CSST 104! In this collection, you'll find a showcase of my journey through the course, highlighting various projects, assignments, and accomplishments.
+Welcome to compilation of works for CSST 104! In this collection, you'll find a showcase of my journey through the course.
 
 About CSST 104
 
@@ -12,13 +12,20 @@ This compilation serves as a reflection of my progress and growth throughout CSS
 
 Exercises
 - <a href= " BankCustomerData.ipynb "> Bank Customer Data <a/>
-- <a href= " HardwareStore.ipynb "> Hardware Store <a/>
 - <a href= " Logistic Regression.ipynb "> Logistic Regression <a/>
 - <a href= " MultipleLinearRegression.ipynb "> Multiple Linear Regression <a/>
 - <a href= " Oyardo,RolleyAnneV_Multiple_Linear_Regression.ipynb "> Multiple Linear Regression Student Grades <a/>
 - <a href= " Oyardo_Rolley_Anne_Simple_LinearRegression.ipynb "> Simple Linear Regression Student Grades <a/>
 - <a href= " SimpleLinearRegression.ipynb "> Simple Linear Regression <a/>
-- <a href= " StudentPerformance.ipynb "> Student Performance <a/>
 
 Activities
 - <a href= " 3A-OYARDO-EXER5.ipynb "> Exercise 5 <a/>
+- <a href= " HardwareStore.ipynb "> Hardware Store <a/>
+- <a href= " StudentPerformance.ipynb "> Student Performance <a/>
+
+ADDITIONAL: Subic and Pampanga Tour Narrative Report
+- <a href= " StudentPerformance.ipynb "> Student Performance <a/>
+
+
+Midterms
+- <a href= " 3A_OYARDO_MIDTERM.ipynb "> Midterm Exam Assessment Task <a/>
