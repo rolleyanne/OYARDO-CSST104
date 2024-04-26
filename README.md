@@ -29,3 +29,22 @@ ADDITIONAL: Subic and Pampanga Tour Narrative Report
 
 Midterms
 - <a href= " 3A_OYARDO_MIDTERM.ipynb "> Midterm Exam Assessment Task <a/>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khaki Background</title>
+    <style>
+        body {
+            background-color: khaki;
+        }
+    </style>
+</head>
+<body>
+    <!-- Your content here -->
+</body>
+</html>
+
