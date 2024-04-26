@@ -24,7 +24,7 @@ Activities
 - <a href= " StudentPerformance.ipynb "> Student Performance <a/>
 
 ADDITIONAL: Subic and Pampanga Tour Narrative Report
-- <a href= " StudentPerformance.ipynb "> Student Performance <a/>
+- <a href= " OYARDO-NARRATIVE_REPORT.pdf "> Narrative Report <a/>
 
 
 Midterms
